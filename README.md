@@ -1,3 +1,8 @@
+# Intentions
+
+## Fork Intentions : Own implementation
+
+----
 # WatchFS
 
 [![NPM](https://nodei.co/npm/node-watchfs.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-watchfs/)
